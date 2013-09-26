@@ -1291,7 +1291,8 @@ body.activebar-container .zone-footer2-wrapper {
     margin: 0;
     padding-right: 5px;
     /* LTR */
-    padding-bottom: 30px;
+    padding-bottom: 5px;
+    /*FIXED*/
     width: 230px; }
     .page-products .view-display-products li.views-row.last {
       padding-right: 0;
@@ -2668,6 +2669,7 @@ article.comment {
     font-size: 16px;
     margin-left: 0px;
     padding: 15px 20px; }
+    /*FIXED*/
     .page-user a.login-register:hover,
     .page-user a.login-account:hover,
     .page-checkout a.login-register:hover,
@@ -3223,6 +3225,14 @@ form.user-info-from-cookie .terms.label {
 #block-menu-menu-fresh-and-local-menu-farmer ul li a.active{
   color: #C72128;
 }
+.first{
+  margin-left: 0;
+} /*FIXED*/
+
+#zone-menu-wrapper{
+  margin-bottom: -7%;
+}  /*FIXED*/
+
 #block-menu-menu-fresh-and-local-menu-farmer h2{
   display: none;
 }
@@ -3336,6 +3346,7 @@ form.user-info-from-cookie .terms.label {
   content: '/';
   font-size: 20px;
 }
+.even {}
 
 .node-type-recurring-product-display article.node-recurring-product-display .field-name-commerce-price .field-item:after {
   content: '/';
