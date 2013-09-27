@@ -3084,6 +3084,10 @@ form.user-info-from-cookie #edit-account .form-item-pass-pass1 {
 form.user-info-from-cookie #edit-account .form-item-pass-pass1 .password-strength {
   margin-top: 0;
 }
+form.user-info-from-cookie #edit-account .form-item-pass-pass1 {
+  margin-bottom: 1em;
+}
+/*FIXEDpassword*/
 form.user-info-from-cookie #edit-account .form-item-pass-pass2 .password-confirm {
   margin-top: 0;
 }
