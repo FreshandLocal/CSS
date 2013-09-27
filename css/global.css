@@ -2502,7 +2502,7 @@ article.comment {
     clear: both;
     float: none;
     width: auto; }
-  #section-content a:link{
+  .login-register, .login-account{
     color: white;     
   }
   .page-user #user-register-form .form-submit,
