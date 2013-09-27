@@ -3225,7 +3225,7 @@ form.user-info-from-cookie .terms.label {
 #block-menu-menu-fresh-and-local-menu-farmer ul li a.active{
   color: #C72128;
 }
-.first.leaf {
+.menu .first .leaf {
   margin-left: 0;
 } /*FIXED*/
 
