@@ -2502,6 +2502,9 @@ article.comment {
     clear: both;
     float: none;
     width: auto; }
+  #section-content a:link{
+    color: white;     
+  }
   .page-user #user-register-form .form-submit,
   .page-user #user-profile-form .form-submit,
   .page-user #user_login_form .form-submit,
@@ -3018,7 +3021,7 @@ fieldset.captcha .fieldset-wrapper {
 .contact-information.label {
   font-size: 1.5em;
   font-weight: bold;
-  margin: 2em 0 .5em;
+  margin: 1em 0 .5em;
 }
 .page-user-register .form-type-textfield label {
   display: block;
@@ -3051,7 +3054,7 @@ form.user-info-from-cookie #user_register_form {
   padding-bottom: 15px;
 }
 form.user-info-from-cookie #user_register_form .form-type-password-confirm .description {
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 form.user-info-from-cookie #user_register_form>h1 {
   display: none;
@@ -3074,6 +3077,9 @@ form.user-info-from-cookie .form-item {
 #edit-profile-customer-field-terms input {
   width: 2em;
   float: left;
+}
+#edit-profile-customer-field-terms-und{
+  margin-top: 4px;
 }
 /**new registration form style**/
 form.user-info-from-cookie #edit-account .form-item-mail,
@@ -3120,16 +3126,17 @@ form.user-info-from-cookie #edit-account .form-type-password-confirm .descriptio
 }
 
 form.user-info-from-cookie .field-type-taxonomy-term-reference {
-  width: 160px !important;
+  width: 700px !important;
   float: left;
   margin-bottom: 0px !important;
   margin-right: 30px !important;
-  min-height: 110px;
+  min-height: 90px;
 }
 form.user-info-from-cookie .field-type-taxonomy-term-reference .description,
 form.user-info-from-cookie .field-type-taxonomy-term-reference select {
-  max-width: 120px;
+  max-width: 700px;
 }
+/*FIXEDpickuppointreg*/
 form.user-info-from-cookie .field-type-taxonomy-term-reference label {
   font-size: 1.1em;
 }
