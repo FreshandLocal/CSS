@@ -3225,11 +3225,11 @@ form.user-info-from-cookie .terms.label {
 #block-menu-menu-fresh-and-local-menu-farmer ul li a.active{
   color: #C72128;
 }
-.first{
+.first.leaf {
   margin-left: 0;
 } /*FIXED*/
 
-#zone-menu-wrapper{
+#zone-menu-wrapper {
   margin-bottom: -7%;
 }  /*FIXED*/
 
