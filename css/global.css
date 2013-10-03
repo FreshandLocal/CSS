@@ -3232,7 +3232,7 @@ form.user-info-from-cookie .terms.label {
   font-family: serif;
   margin: 0 21px;
 }
-#block-menu-menu-fresh-and-local-menu-farmer ul li .first {
+#block-menu-menu-fresh-and-local-menu-farmer ul .first .leaf {
   margin-left: 0px;
 }
 #block-menu-menu-fresh-and-local-menu-farmer ul li a{
@@ -3242,9 +3242,6 @@ form.user-info-from-cookie .terms.label {
 #block-menu-menu-fresh-and-local-menu-farmer ul li a.active{
   color: #C72128;
 }
-.menu .first .leaf {
-  margin-left: 0;
-} /*FIXED*/
 
 #zone-menu-wrapper {
   margin-bottom: -30px;
