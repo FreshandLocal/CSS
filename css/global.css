@@ -3232,6 +3232,9 @@ form.user-info-from-cookie .terms.label {
   font-family: serif;
   margin: 0 21px;
 }
+#block-menu-menu-fresh-and-local-menu-farmer ul li .first {
+  margin-left: 0px;
+}
 #block-menu-menu-fresh-and-local-menu-farmer ul li a{
   font-family:Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif;
   color: #5E6E66;
