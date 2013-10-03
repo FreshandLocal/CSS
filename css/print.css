@@ -5,11 +5,11 @@
 .home-link {
 background: transparent url(/profiles/commerce_kickstart/modules/commerce_kickstart/commerce_kickstart_menus/images/logo-menu.png) no-repeat 0 0;
 display: block;
-min-height: 44px;
+min-height: 0px;
 text-indent: -9999px;
 width: 130px;
 height: 44px;
-margin: -50px auto 0;
+margin: 0 auto;
 }
 
 .view-member-packing-list-new- table, .view-customers-by-pickup-point table, .view-perishables-by-pickup-list table, .view-producer-pick-list table, .view-id-users table, .view-customers-by-pickup-point table, .view-weekly-producer-list table, .view-point-person-pickup-list-new table, .view-producer-pick-list table {
