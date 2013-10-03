@@ -2629,6 +2629,9 @@ article.comment {
       .page-checkout form#user-profile-form .form-actions .back-to-login .login-account {
         display: block;
         float: left; }
+  .back-to-login .login-account{
+    color: white;
+  }
   .page-user form#user-login,
   .page-checkout form#user-login {
     /* Login form */ }
