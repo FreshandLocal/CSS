@@ -3671,6 +3671,21 @@ margin: 0 auto;
   font-weight: normal;
 }
 
+.point-person-pickup-list {
+  float: right;
+  position: relative;
+  top: -40px;
+}
+/*FIXED point-person*/
+
+.point-person-pickup-list .img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  margin-bottom: 8px;
+}
+/*FIXED point-person*/
+
 .checkbox2 {
   border: 2px solid #999;
   display: block;
