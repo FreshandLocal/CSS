@@ -27,6 +27,6 @@ h1, h2 { color: #333333; }
 #site-menu ul li.active-trail a,
 #site-menu ul li a.active { background: #eeeeee; color: #000000; }
 
-#section-content .create-account, .back-to-login  a {
+.back-to-login .login-account, #section-content .create-account a {
   color: white;
 }
