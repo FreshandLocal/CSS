@@ -16,7 +16,10 @@ margin: 0 auto;
   page-break-after:always;
 }
 
+.view-header {
+  margin-top: -300px;
+}
+
 body .view-header h2 {
   display: block;
-  margin-top: -300px;
 }
