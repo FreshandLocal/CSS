@@ -2,6 +2,10 @@
   display: none;
 }
 
+.title {
+	margin-top: -200px;
+}
+
 .home-link {
 background: transparent url(/profiles/commerce_kickstart/modules/commerce_kickstart/commerce_kickstart_menus/images/logo-menu.png) no-repeat 0 0;
 display: block;
