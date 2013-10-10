@@ -16,10 +16,11 @@ margin: 0 auto;
   page-break-after:always;
 }
 
-#view-id-weekly_producer_list {
+#view #view-weekly-producer-list #view-id-weekly_producer_list {
   margin-top: -260px;
 }
 
 body .view-header h2 {
   display: block;
 }
+<div class=​" view 
