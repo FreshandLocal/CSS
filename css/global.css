@@ -3696,6 +3696,11 @@ body .node-product-type .field-type-commerce-product-reference form.commerce-add
   margin-left: 0;
 }
 
+.block-views-shopping-cart-block #content.clearfix ul a{
+  color: white
+}
+
+
 #region-sidebar-second {
   float: left;
 }
