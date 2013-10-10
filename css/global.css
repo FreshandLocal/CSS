@@ -3696,7 +3696,7 @@ body .node-product-type .field-type-commerce-product-reference form.commerce-add
   margin-left: 0;
 }
 
-*[@id="block-views-shopping-cart-block"]/div/div[2]/div/div[2]/div/ul/li/a{
+.block-views-shopping-cart-block #li.line-item-summary-checkout.first.last a{
   color: white
 }
 
