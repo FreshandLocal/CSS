@@ -2,10 +2,6 @@
   display: none;
 }
 
-.title {
-	margin-top: -300px;
-}
-
 .home-link {
 background: transparent url(/profiles/commerce_kickstart/modules/commerce_kickstart/commerce_kickstart_menus/images/logo-menu.png) no-repeat 0 0;
 display: block;
@@ -22,4 +18,5 @@ margin: 0 auto;
 
 body .view-header h2 {
   display: block;
+  margin-top: -300px;
 }
