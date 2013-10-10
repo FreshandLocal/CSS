@@ -1332,12 +1332,6 @@ body.activebar-container .zone-footer2-wrapper {
     .page-products .view-display-products li .views-field-field-extractor-field-product ul li .commerce-fancy-attributes-color {
       border: none; }
 
-  #node-recurring-product-display a {
-    bottom: 100px;
-  }
-  #node-recurring-product-display #field #field-name-field-tag #field-type-text #field-label-hidden {
-    top: -26px;
-  }
 /** TODO: Check if used on commerce_kickstart
 .page-products .commerce-product-extra-field-title {
   background: url('../images/bg_search_product_name.png') left top no-repeat;
