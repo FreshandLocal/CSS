@@ -16,8 +16,8 @@ margin: 0 auto;
   page-break-after:always;
 }
 
-.view-header {
-  margin-top: -200px;
+#view-id-weekly_producer_list {
+  margin-top: -260px;
 }
 
 body .view-header h2 {
