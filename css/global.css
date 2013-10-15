@@ -3696,10 +3696,9 @@ body .node-product-type .field-type-commerce-product-reference form.commerce-add
   margin-left: 0;
 }
 
-#li.line-item-summary-checkout.first.last a{
+#li.line-item-summary-checkout.first.last a {
   color: white
 }
-
 
 #region-sidebar-second {
   float: left;
