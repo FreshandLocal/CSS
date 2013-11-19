@@ -3697,7 +3697,7 @@ body .node-product-type .field-type-commerce-product-reference form.commerce-add
 }
 
 #li.line-item-summary-checkout.first.last a {
-  color: white
+  color: white;
 }
 
 #region-sidebar-second {
